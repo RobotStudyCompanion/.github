@@ -12,3 +12,7 @@
 -->
 
 ![RSC](./RSC_Intro.gif)
+
+Accepted for HCII2023 Student Design Competition: 
+https://2023.hci.international/Student_Design_Competition-Video_Presentations.html
+Won Bronze: https://2023.hci.international/Student_Design_Competition-Awards.html 
