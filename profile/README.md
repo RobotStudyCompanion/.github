@@ -21,3 +21,5 @@ A robotic study companion (RSC) is a type of social robot designed to interact w
 [Accepted for HCII2023 Student Design Competition ](https://2023.hci.international/Student_Design_Competition-Video_Presentations.html) | [Awarded Bronze Prize](https://2023.hci.international/Student_Design_Competition-Awards.html)
 
 Special Mention: ICSR 2023 Robot Design Online Competition
+
+OSHWA Certification [EE000003](https://certification.oshwa.org/ee000003.html)
