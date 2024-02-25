@@ -22,4 +22,4 @@ A robotic study companion (RSC) is a type of social robot designed to interact w
 
 Special Mention: ICSR 2023 Robot Design Online Competition
 
-OSHWA Certification [EE000003](https://certification.oshwa.org/ee000003.html)
+OSHWA Certification [EE000003](https://certification.oshwa.org/ee000003.html) | Maker News [Feature](https://makezine.com/article/maker-news/open-source-hardware-certifications-december-and-january/)
